@@ -15,22 +15,22 @@ A collection of system design problems with visuals from tldraw, solutions, and 
 
 #### Blogs
 
-| Topic | Resources Type |  Resources | 
-|--------|-------------| -------------| 
-| System Design Roadmap for Beginners | blog | (https://nehasharma.dev/posts/system-design-roadmaps-for-beginners) | 
-| APIs Are Like Grocery Lists: A Fun Guide to API Design| blog | (https://nehasharma.dev/posts/api-introduction) |
-| Database Replication Strategies | blog | (https://nehasharma.dev/posts/what-is-database-replicaiton) |
-| Introduction to Database | blog | (https://dev.to/hellonehha/introduction-to-database-f1n) |
-| What is Application design? | blog | (https://dev.to/hellonehha/what-is-application-design-53fa) |
-| How to pick your database | blog | (https://dev.to/hellonehha/how-to-pick-your-database-2hj6) |
+| Topic | Resources Type | 
+|--------|-------------| 
+| [System Design Roadmap for Beginners](https://nehasharma.dev/posts/system-design-roadmaps-for-beginners) | blog | 
+| [APIs Are Like Grocery Lists: A Fun Guide to API Design](https://nehasharma.dev/posts/api-introduction)| blog |
+| [Database Replication Strategies](https://nehasharma.dev/posts/what-is-database-replicaiton)  | blog |
+| [Introduction to Database](https://dev.to/hellonehha/introduction-to-database-f1n) | blog |
+| [What is Application design?](https://dev.to/hellonehha/what-is-application-design-53fa)| blog |
+| [How to pick your database](https://dev.to/hellonehha/how-to-pick-your-database-2hj6)| blog | 
 
 #### Books
 
-| Topic | Resources Type |  Resources | 
-|--------|-------------| -------------| 
-| Desiging Data-intensive applications | book | (https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) |
-| Database Internals | book | (https://www.amazon.co.uk/Database-Internals-Deep-Dive-Distributed-Systems/dp/1492040347) |
-| Distributed systems | book | (https://www.amazon.co.uk/Distributed-Systems-Maarten-van-Steen/dp/9081540637) |
+| Topic | Resources Type |  
+|--------|-------------|
+| [Desiging Data-intensive applications](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) | book |
+| [Database Internals](https://www.amazon.co.uk/Database-Internals-Deep-Dive-Distributed-Systems/dp/1492040347) | book |
+| [Distributed systems](https://www.amazon.co.uk/Distributed-Systems-Maarten-van-Steen/dp/9081540637) | book |
 
 ---
 
