@@ -7,6 +7,8 @@ A collection of system design problems with visuals from tldraw, solutions, and 
 | Problem | Description | Stauts |
 |--------|-------------| -------------| 
 | [Register API](./register-api/) | Secure and scalable user registration with email confirmation | WIP |
+| [Tiny URL](./tiny-url/) | Shorten the URL | WIP |
+| Rate Limiter| Design a rate limiter like API Gateway |TBU |
 | Rate Limiter| Design a rate limiter like API Gateway |TBU |
 | Login API | Authenticate users with hashed passwords and sessions |TBU |
 
