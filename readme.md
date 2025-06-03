@@ -6,9 +6,8 @@ A collection of system design problems with visuals from tldraw, solutions, and 
 
 | Problem | Description | Stauts |
 |--------|-------------| -------------| 
-| [Register API](./register-api/) | Secure and scalable user registration with email confirmation | WIP |
+| [Register API](./register-api/) | Secure and scalable user registration with email confirmation | done |
 | [Tiny URL](./tiny-url/) | Shorten the URL | WIP |
-| Rate Limiter| Design a rate limiter like API Gateway |TBU |
 | Rate Limiter| Design a rate limiter like API Gateway |TBU |
 | Login API | Authenticate users with hashed passwords and sessions |TBU |
 
@@ -25,6 +24,9 @@ A collection of system design problems with visuals from tldraw, solutions, and 
 | [Introduction to Database](https://dev.to/hellonehha/introduction-to-database-f1n) | blog |
 | [What is Application design?](https://dev.to/hellonehha/what-is-application-design-53fa)| blog |
 | [How to pick your database](https://dev.to/hellonehha/how-to-pick-your-database-2hj6)| blog | 
+| [Sharding Demystified](https://nehasharma.dev/posts/sharding-demystified)| blog | 
+| [Eventually Consistency](https://nehasharma.dev/posts/eventually-consistency)| blog |
+| [Design a Register API](https://nehasharma.dev/posts/design-a-register-api)| blog | 
 
 #### Books
 
