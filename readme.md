@@ -35,7 +35,6 @@ A collection of system design problems with visuals from tldraw, solutions, and 
 | [Desiging Data-intensive applications](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) | book |
 | [Database Internals](https://www.amazon.co.uk/Database-Internals-Deep-Dive-Distributed-Systems/dp/1492040347) | book |
 | [Distributed systems](https://www.amazon.co.uk/Distributed-Systems-Maarten-van-Steen/dp/9081540637) | book |
- [hashing](file:///Users/neha/Downloads/Crypto101.pdf)
 
 ---
 
